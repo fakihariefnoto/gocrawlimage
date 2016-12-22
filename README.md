@@ -1,3 +1,2 @@
-# gocrawlimage [![CircleCI](https://circleci.com/gh/fakihariefnoto/gocrawlimage/tree/master.png?circle-token=fa16afbe771d1b26e22681780a780450dcf50e0b&style=shield)](https://circleci.com/gh/fakihariefnoto/gocrawlimage)
-
+# gocrawlimage [![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/fakihariefnoto/gocrawlimage) [![CircleCI](https://circleci.com/gh/fakihariefnoto/gocrawlimage/tree/master.png?circle-token=fa16afbe771d1b26e22681780a780450dcf50e0b&style=shield)](https://circleci.com/gh/fakihariefnoto/gocrawlimage) [![GoReportCard](https://goreportcard.com/badge/github.com/fakihariefnoto/gocrawlimage)](https://goreportcard.com/report/github.com/fakihariefnoto/gocrawlimage)
 download image from the csv list of url with go
